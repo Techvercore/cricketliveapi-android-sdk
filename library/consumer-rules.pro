@@ -1,0 +1,3 @@
+-keep class com.cricketliveapi.sdk.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
